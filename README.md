@@ -17,3 +17,7 @@
    -- is_empty(), enqueue(), dequeue(), peek(), size(), str()
 
    -- BFS algorithm by Queue
+   
+4. A-star algorithm by Priority Queue
+   
+   -- the shortest path
