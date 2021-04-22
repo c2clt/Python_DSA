@@ -10,6 +10,10 @@
    
    -- Trace maze path from start to goal
 
+   -- DFS by Stack
+
 3. Queue by collection.deque
 
-   is_empty(), enqueue(), dequeue(), peek(), size(), str()
+   -- is_empty(), enqueue(), dequeue(), peek(), size(), str()
+
+   -- BFS algorithm by Queue
